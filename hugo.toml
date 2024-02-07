@@ -1,0 +1,4 @@
+baseURL = 'https://lyevatlas.github.io/'
+languageCode = 'en-uk'
+title = 'Vysaaria'
+theme = "blowfish"

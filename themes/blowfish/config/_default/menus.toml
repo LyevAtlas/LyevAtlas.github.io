@@ -1,0 +1,30 @@
+[[main]]
+  pre = "pencil"
+  name = "Posts"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  pre = "globe"
+  name = "Factbook"
+  pageRef = "factbook"
+  weight = 20
+
+[[main]]
+  identifier = "discord"
+  pre = "discord"
+  url = "https://discord.gg/vysaaria"
+  weight = 40
+
+[[main]]
+  identifier = "deviantart"
+  pre = "deviantart"
+  url = "https://www.deviantart.com/lyevatlas"
+  weight = 50
+
+[[main]]
+  pre = "vysCross"
+  name = "Vysaaria"
+  parent = "Factbook"
+  pageRef = "factbook/vysaaria"
+  weight = 16
