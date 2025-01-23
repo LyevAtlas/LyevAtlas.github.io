@@ -3,23 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://lyevatlas.github.io/factbook/</loc>
-    <lastmod>2024-02-04T23:56:32-05:00</lastmod>
+    <loc>https://lyevatlas.github.io/bios/</loc>
+    <lastmod>2024-11-15T12:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>https://lyevatlas.github.io/</loc>
-    <lastmod>2024-02-04T23:56:32-05:00</lastmod>
+    <loc>https://lyevatlas.github.io/factbook/</loc>
+    <lastmod>2024-11-15T12:00:00-05:00</lastmod>
   </url>
   <url>
     <loc>https://lyevatlas.github.io/posts/intro/</loc>
-    <lastmod>2024-02-04T23:56:32-05:00</lastmod>
+    <lastmod>2024-11-15T12:00:00-05:00</lastmod>
   </url>
   <url>
     <loc>https://lyevatlas.github.io/factbook/vysaaria/</loc>
-    <lastmod>2024-02-04T23:56:32-05:00</lastmod>
+    <lastmod>2024-11-15T12:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://lyevatlas.github.io/bios/konstyentyn/</loc>
+    <lastmod>2024-11-15T12:00:00-05:00</lastmod>
   </url>
   <url>
     <loc>https://lyevatlas.github.io/posts/</loc>
+    <lastmod>2024-11-15T12:00:00-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://lyevatlas.github.io/</loc>
     <lastmod>2024-02-04T23:56:32-05:00</lastmod>
   </url>
 </urlset>
